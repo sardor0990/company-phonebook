@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+    <version>1</version>
+    <pbgroup>
+        <id>0</id>
+        <name>Default</name>
+        <photos></photos>
+        <ringtones></ringtones>
+        <RingtoneIndex>0</RingtoneIndex>
+    </pbgroup>
+    <pbgroup>
+        <id>6</id>
+        <name>Synergy</name>
+        <photos>Default</photos>
+        <ringtones></ringtones>
+        <RingtoneIndex>0</RingtoneIndex>
+    </pbgroup>
+    <pbgroup>
+        <id>100</id>
+        <name>Blacklist</name>
+        <photos></photos>
+        <ringtones></ringtones>
+        <RingtoneIndex>0</RingtoneIndex>
+    </pbgroup>
+    <Contact>
+        <id>1</id>
+        <FirstName>Otdel</FirstName>
+        <LastName>Analitika</LastName>
+        <Department>Analitika</Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>2007</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group></Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>2</id>
+        <FirstName>HelpDesk IT</FirstName>
+        <LastName>IT</LastName>
+        <Department>IT</Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>2222</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group></Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>3</id>
+        <FirstName>Buxgalteriya</FirstName>
+        <LastName>buxgalteriya</LastName>
+        <Department>buxgalteriya</Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>2011</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group></Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>4</id>
+        <FirstName>Azimjon</FirstName>
+        <LastName></LastName>
+        <Department>Transformatsiya</Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>2006</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group></Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+</AddressBook>
